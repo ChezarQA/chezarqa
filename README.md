@@ -24,11 +24,8 @@
 
 ## Work examples
 [![TestDocumentation](https://github-readme-stats.vercel.app/api/pin/?username=chezarqa&repo=tenet&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/ChezarQA/tenet)
-
 [![Posman collection](https://github-readme-stats.vercel.app/api/pin/?username=chezarqa&repo=tenet&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/ChezarQA/tenet)
-
 [![SQL](https://github-readme-stats.vercel.app/api/pin/?username=chezarqa&repo=tenet&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/ChezarQA/tenet)
-
 [![Autotest](https://github-readme-stats.vercel.app/api/pin/?username=chezarqa&repo=tenet&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/ChezarQA/tenet)
 
 ## Achievements
