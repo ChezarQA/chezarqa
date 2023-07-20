@@ -5,7 +5,7 @@
 -->
 <h1 align="center">Hi there, my name is Yunir
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a QA Engineer</h3>
+<h3 align="center">I'm a Web QA Engineer</h3>
 
 ## Check out my CV
 [Link to my CV](https://drive.google.com/file/d/1hyftHLbMz3YmHKu7hL5oFgNR8KkUsLZN/view?usp=sharing)
